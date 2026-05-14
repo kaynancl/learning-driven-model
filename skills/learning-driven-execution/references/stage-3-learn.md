@@ -1,6 +1,8 @@
 # Stage 3 — Learning Cycle
 
-The team has a hypothesis. Now they design and run a time-boxed experiment to validate, refute, or refine it. The output of this stage is a **decision**, not code.
+The team has a hypothesis for a specific initiative. Now they design and run a time-boxed experiment to validate, refute, or refine it. The output of this stage is a **decision**, not code.
+
+A Learning Cycle is scoped to **one initiative**, not to the whole team. A team can have several initiatives at different stages — one in a Learning Cycle, another in Delivery, a third still being framed — but within a single initiative, the people running the experiment are the same people who will own the Delivery Cycle if it graduates. No handoff.
 
 ## Time-box
 

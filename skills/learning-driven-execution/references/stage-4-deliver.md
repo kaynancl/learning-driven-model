@@ -1,6 +1,8 @@
 # Stage 4 — Delivery Cycle
 
-The hypothesis was validated, the team chose Graduate. Delivery Cycle now turns the validated bet into a production-grade system.
+The hypothesis was validated, the initiative graduated. The Delivery Cycle now turns the validated bet into a production-grade system.
+
+Delivery Cycles are scoped per-initiative, like Learning Cycles. The people running this cycle are the same people who ran the Learning Cycle for this initiative — they carry forward the context that made the bet credible. A team may have other initiatives in their own cycles in parallel; what does not happen is a new sub-team picking up the prototype to "productionize" it. That handoff is the failure mode LDEM is designed to prevent.
 
 ## Time-box
 
