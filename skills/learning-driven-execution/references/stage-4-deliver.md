@@ -1,14 +1,14 @@
-# Stage 4 — Delivery Mode (Build to Earn)
+# Stage 4 — Delivery Cycle
 
-The hypothesis was validated, the team chose Graduate. Delivery Mode now turns the validated bet into a production-grade system.
+The hypothesis was validated, the team chose Graduate. Delivery Cycle now turns the validated bet into a production-grade system.
 
 ## Time-box
 
 **4–6 weeks** for a meaningful end-to-end increment. If the work is genuinely larger, slice into multiple delivery cycles, each with its own outcome. A 12-week monolith with no internal milestones is a smell.
 
-## What's different from Learning Mode
+## What's different from Learning Cycle
 
-| Learning Mode | Delivery Mode |
+| Learning Cycle | Delivery Cycle |
 | --- | --- |
 | Output is a *decision* | Output is a *deployed system + measurable outcome* |
 | Code is disposable | Code is owned, observable, on-call |
@@ -18,7 +18,7 @@ The hypothesis was validated, the team chose Graduate. Delivery Mode now turns t
 
 The transition from Learning to Delivery is when the team stops asking "does this work?" and starts asking "how do we run this in production?"
 
-## What Delivery Mode includes
+## What Delivery Cycle includes
 
 - **Robust implementation.** Refactoring the prototype is normal — usually nothing of the prototype survives intact, and that's healthy. The prototype's job was to teach; the production code's job is to run.
 - **Reliability and observability.** SLOs, dashboards, alerting, error budgets. If something breaks at 3 AM, who pages, on what, and what do they do?
@@ -37,7 +37,7 @@ Delivery is not done at "deployed". It's done at "we can confirm the hypothesis 
 ## What to watch for during delivery
 
 - **Scope creep into "while we're in here".** Adjacent improvements feel cheap during delivery but compound. Add them to a follow-up backlog instead, unless they directly affect the success metric.
-- **Reverting to discovery mid-cycle.** If a Delivery Mode initiative starts uncovering big new unknowns, that's a sign the learning cycle ended too early. It's OK to pause delivery and run a focused mini-spike, but name it.
+- **Reverting to discovery mid-cycle.** If a Delivery Cycle initiative starts uncovering big new unknowns, that's a sign the learning cycle ended too early. It's OK to pause delivery and run a focused mini-spike, but name it.
 - **Operational debt deferred to "later".** If the on-call story isn't part of the delivery scope, it usually doesn't get built. Bake it in.
 
 ## Closing out a delivery cycle

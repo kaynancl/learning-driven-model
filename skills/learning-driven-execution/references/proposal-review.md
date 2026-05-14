@@ -14,7 +14,7 @@ Walk through these in order. For each, note: **Present**, **Implicit/weak**, or 
 2. **Baseline.** Is the current state measured, or just asserted?
 3. **Hypothesis.** Is the bet stated as a falsifiable "if X then Y by Z"?
 4. **Uncertainty diagnosis.** Has the proposal correctly diagnosed whether the uncertainty is in problem / solution / feasibility / impact?
-5. **Mode declaration.** Does the proposal identify itself as Learning or Delivery? Or does it conflate the two (the most common gap)?
+5. **Cycle declaration.** Does the proposal identify itself as a Learning Cycle or Delivery Cycle? Or does it conflate the two (the most common gap)?
 6. **Experiment design** (if Learning) or **delivery scope** (if Delivery). Concrete and time-boxed?
 7. **Success criteria.** Specific, measurable thresholds — not "users will be happy"?
 8. **Transition criteria** (if Learning). Has the team thought about what triggers Graduate / Pivot / Stop?

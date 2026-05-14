@@ -1,4 +1,4 @@
-# Stage 3 — Learning Mode (Build to Learn)
+# Stage 3 — Learning Cycle
 
 The team has a hypothesis. Now they design and run a time-boxed experiment to validate, refute, or refine it. The output of this stage is a **decision**, not code.
 
@@ -18,10 +18,10 @@ Discovery code is **disposable by default**. Speed of insight beats production h
 - A design exercise (whiteboard, RFC, ADR) where the unknown is conceptual, not technical
 - A spike to *measure the baseline* when nobody knows what it is today
 
-## What does NOT fit Learning Mode
+## What does NOT fit Learning Cycle
 
 - Refactoring existing code that already works in production
-- Hardening an already-validated prototype (that's Delivery Mode)
+- Hardening an already-validated prototype (that's Delivery Cycle)
 - Building "MVP" code the team plans to keep — that's prototype-becoming-production, the failure mode LDEM is designed to prevent. Either commit to discarding it or treat it as Delivery.
 - Open-ended research with no hypothesis attached
 - Anything where you already know the answer
@@ -55,7 +55,7 @@ A single learning cycle can mix two of these (e.g., feasibility + cost), but try
 
 ## Instrumentation is part of the experiment
 
-The model warns against Learning Mode degenerating into "unstructured exploration." The fix is **define your evaluation metrics before you start building**, not after. Specifically:
+The model warns against Learning Cycle degenerating into "unstructured exploration." The fix is **define your evaluation metrics before you start building**, not after. Specifically:
 
 - The outcome metric (the thing the hypothesis claims will change)
 - A behavioral metric where relevant (do users act on it?)
@@ -71,7 +71,7 @@ For a 2-week cycle, do a quick checkpoint at end of week 1: is the experiment pr
 
 Bring the team to the four transition criteria (see `references/transition-decision.md`). Output is one of:
 
-- **Graduate** → Stage 4, Delivery Mode
+- **Graduate** → Stage 4, Delivery Cycle
 - **Pivot** → re-frame the hypothesis, run another short cycle
 - **Stop** → document what was learned, free the capacity
 

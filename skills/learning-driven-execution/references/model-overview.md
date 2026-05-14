@@ -4,26 +4,26 @@ The Learning-Driven Execution Model is one answer to the rework / "demo-to-produ
 
 ## Core idea
 
-The same team alternates between two operational modes:
+The same team alternates between two operational cycles:
 
-| Mode | Goal | Output | Typical length |
+| Cycle | Goal | Output | Typical length |
 | --- | --- | --- | --- |
-| **Learning Mode (Build to Learn)** | Reduce uncertainty about a problem or solution | A decision: Graduate, Pivot, or Stop — backed by evidence | 1–3 weeks |
-| **Delivery Mode (Build to Earn)** | Deliver production value for a validated bet | Deployed system + measurable outcome shift | 4–6 weeks |
+| **Learning Cycle** | Reduce uncertainty about a problem or solution | A decision: Graduate, Pivot, or Stop — backed by evidence | 1–3 weeks |
+| **Delivery Cycle** | Convert a validated bet into measurable production impact | Deployed system + measurable outcome shift | 4–6 weeks |
 
 Cycles do not need to run back-to-back on the same initiative. A team can run a learning cycle on initiative A, then deliver on initiative B (already validated), and return to A later.
 
 ## Four stages of an initiative
 
 ```
-Goal Definition  →  Problem Framing  →  Learning Mode  →  Delivery Mode
+Goal Definition  →  Problem Framing  →  Learning Cycle  →  Delivery Cycle
    (leadership +      (team + PM —          (team —              (team —
     team — strategic    hypothesis,           experiment,           production
     objective, target   expected impact)      decide)               build, measure)
     metric, guardrails)
 ```
 
-Stages 3 and 4 are the explicit modes. Stages 1 and 2 happen quickly — usually one or two short conversations, not multi-week activities.
+Stages 3 and 4 are the explicit cycles. Stages 1 and 2 happen quickly — usually one or two short conversations, not multi-week activities.
 
 ## Transition criteria (Learning → Delivery)
 
@@ -58,7 +58,7 @@ Treat these as a starting hypothesis. Refine the split as your team learns what 
 - Before high-uncertainty work: a short Discovery Definition (hypothesis + success criteria + timebox).
 - Discovery work runs in its own time-boxed cycle — not blended into delivery.
 - Each learning cycle ends with a written Graduate / Pivot / Stop decision.
-- Capacity allocation between modes becomes an explicit, tracked choice.
+- Capacity allocation between cycles becomes an explicit, tracked choice.
 
 ## Cultural rule
 

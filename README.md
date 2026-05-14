@@ -1,6 +1,6 @@
 # learning-driven-model
 
-A Claude Code plugin that coaches engineers through the **Learning-Driven Execution Model (LDEM)** — a same-team approach that alternates between **Build-to-Learn** (Learning Mode) and **Build-to-Earn** (Delivery Mode), with explicit hypotheses, time-boxed cycles, and evidence-based **Graduate / Pivot / Stop** transitions.
+A Claude Code plugin that coaches engineers through the **Learning-Driven Execution Model (LDEM)** — a same-team approach that alternates between **Learning Cycles** (reduce uncertainty about a problem or solution) and **Delivery Cycles** (convert a validated bet into measurable production impact), with explicit hypotheses, time-boxed work, and evidence-based **Graduate / Pivot / Stop** transitions.
 
 The plugin ships as a single Claude Code skill that triggers on engineering proposals where uncertainty is high — fuzzy problems, unproven feasibility, "should we even build this?" questions. It coaches; it does not gatekeep.
 
@@ -9,7 +9,7 @@ The plugin ships as a single Claude Code skill that triggers on engineering prop
 - **Frame a new initiative** — sharpen the hypothesis, set a baseline, scope a learning cycle.
 - **Review an existing RFC, design doc, or epic** against LDEM and surface gaps.
 - **Decide Graduate / Pivot / Stop** at the end of a learning cycle, walking the four transition criteria.
-- **Decide whether work belongs in Learning Mode at all** — discovery is not for everything.
+- **Decide whether work belongs in a Learning Cycle at all** — discovery is not for everything.
 
 ## Why this exists
 
@@ -28,7 +28,7 @@ cd learning-driven-model
 # (see Claude Code docs for the current install path on your platform)
 ```
 
-Once installed, the skill triggers on phrases like *"build to learn"*, *"learning cycle"*, *"spike"*, *"graduate this"*, *"pivot or stop"*, *"is this ready to ship"*, *"is my hypothesis sharp"*, *"review my RFC"*, *"frame a hypothesis"*, *"set transition criteria"* — or any open-ended engineering proposal with high problem or solution uncertainty.
+Once installed, the skill triggers on phrases like *"learning cycle"*, *"delivery cycle"*, *"discovery cycle"*, *"spike"*, *"graduate this"*, *"pivot or stop"*, *"is this ready to ship"*, *"is my hypothesis sharp"*, *"review my RFC"*, *"frame a hypothesis"*, *"set transition criteria"* — or any open-ended engineering proposal with high problem or solution uncertainty.
 
 ## Repository layout
 
@@ -57,10 +57,10 @@ Once installed, the skill triggers on phrases like *"build to learn"*, *"learnin
 
 ## The model in one minute
 
-| Mode | Goal | Output | Typical length |
+| Cycle | Goal | Output | Typical length |
 | --- | --- | --- | --- |
-| **Learning Mode (Build to Learn)** | Reduce uncertainty about a problem or solution | A decision — Graduate, Pivot, or Stop — backed by evidence | 1–3 weeks |
-| **Delivery Mode (Build to Earn)** | Deliver production value for a validated bet | Deployed system + measurable outcome shift | 4–6 weeks |
+| **Learning Cycle** | Reduce uncertainty about a problem or solution | A decision — Graduate, Pivot, or Stop — backed by evidence | 1–3 weeks |
+| **Delivery Cycle** | Convert a validated bet into measurable production impact | Deployed system + measurable outcome shift | 4–6 weeks |
 
 A learning cycle ends with a written decision against **four transition criteria**:
 

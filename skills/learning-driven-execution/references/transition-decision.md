@@ -44,7 +44,7 @@ Is the estimated delivery effort proportional to the expected impact? Does it co
 
 ### Graduate
 
-All four criteria are yes. Move to Delivery Mode. Document the rationale and link to the evidence. See `references/stage-4-deliver.md` for what comes next.
+All four criteria are yes. Move to Delivery Cycle. Document the rationale and link to the evidence. See `references/stage-4-deliver.md` for what comes next.
 
 ### Pivot
 

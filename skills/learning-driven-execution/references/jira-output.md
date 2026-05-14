@@ -16,7 +16,7 @@ Show the engineer the **full proposed content in chat first** — the epic descr
 
 ## Recommended Jira shapes
 
-### Shape A — Lightweight (Learning Mode only)
+### Shape A — Lightweight (Learning Cycle only)
 
 One epic, one spike issue inside it.
 
@@ -27,8 +27,8 @@ One epic, one spike issue inside it.
 
 One epic, with sub-issues for each phase:
 
-- Spike issue (Learning Mode) — closes when the transition decision is made
-- One or more stories (Delivery Mode) — created only after Graduate
+- Spike issue (Learning Cycle) — closes when the transition decision is made
+- One or more stories (Delivery Cycle) — created only after Graduate
 - An "Outcome verification" story at the end of delivery
 
 ### Shape C — Discovery-then-decide-later
@@ -42,8 +42,8 @@ Recommend Shape A by default. Use Shape B when the engineer is past the transiti
 Put this in the epic description. Use the same headings as the Discovery Definition for consistency:
 
 ```
-**Mode:** Learning | Delivery | Mixed
-**Stage:** Goal Definition | Problem Framing | Learning Mode | Delivery Mode
+**Cycle:** Learning | Delivery | Mixed
+**Stage:** Goal Definition | Problem Framing | Learning Cycle | Delivery Cycle
 
 ## Goal & metric
 [Strategic objective + the metric that should move]
@@ -51,10 +51,10 @@ Put this in the epic description. Use the same headings as the Discovery Definit
 ## Hypothesis
 "If [action], then [outcome] will [direction] by [magnitude] [scope/timeframe]"
 
-## Learning goal (Learning Mode only)
+## Learning goal (Learning Cycle only)
 [What must be proven? Problem-validation / feasibility / adoption / cost]
 
-## Experiment (Learning Mode only)
+## Experiment (Learning Cycle only)
 [Concrete description of what we'll run, on what data, against what baseline]
 
 ## Success criteria
@@ -63,7 +63,7 @@ Put this in the epic description. Use the same headings as the Discovery Definit
 ## Timebox
 [1–3 weeks for Learning, 4–6 weeks for Delivery, with a target end date]
 
-## Transition criteria (Learning Mode only)
+## Transition criteria (Learning Cycle only)
 [The four criteria, with current status. Updated at end of cycle.]
 
 ## Decision (filled at end of Learning cycle)
