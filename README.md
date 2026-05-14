@@ -1,6 +1,6 @@
 # learning-driven-model
 
-A Claude Code plugin that coaches engineers through the **Learning-Driven Execution Model (LDEM)** — a same-team approach that alternates between **Learning Cycles** (reduce uncertainty about a problem or solution) and **Delivery Cycles** (convert a validated bet into measurable production impact), with explicit hypotheses, time-boxed work, and evidence-based **Graduate / Pivot / Stop** transitions.
+A Claude Code plugin that coaches engineers through the **Learning-Driven Execution Model (LDEM)** — an initiative-scoped approach where each epic or project moves through a **Learning Cycle** (reduce uncertainty about a problem or solution) and, if it graduates, a **Delivery Cycle** (convert the validated bet into measurable production impact). The same people run both cycles for a given initiative, and a team can have several initiatives in flight at once. Transitions are evidence-based (**Graduate / Pivot / Stop**) and timeboxed.
 
 The plugin ships as a single Claude Code skill that triggers on engineering proposals where uncertainty is high — fuzzy problems, unproven feasibility, "should we even build this?" questions. It coaches; it does not gatekeep.
 

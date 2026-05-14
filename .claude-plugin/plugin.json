@@ -1,7 +1,7 @@
 {
   "name": "learning-driven-model",
   "version": "0.1.0",
-  "description": "Coach engineers through the Learning-Driven Execution Model (LDEM) — same-team alternation between Learning Cycles and Delivery Cycles. Helps frame hypotheses, scope discovery cycles, design experiments, review RFCs against LDEM, and decide Graduate / Pivot / Stop with evidence.",
+  "description": "Coach engineers through the Learning-Driven Execution Model (LDEM) — initiative-scoped Learning Cycles and Delivery Cycles, run end-to-end by the same people. Helps frame hypotheses, scope discovery cycles, design experiments, review RFCs against LDEM, and decide Graduate / Pivot / Stop with evidence.",
   "category": "engineering-execution",
   "author": {
     "name": "Kaynan Coelho Lira"

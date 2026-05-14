@@ -4,14 +4,18 @@ The Learning-Driven Execution Model is one answer to the rework / "demo-to-produ
 
 ## Core idea
 
-The same team alternates between two operational cycles:
+**Cycles are scoped to an initiative, not to a team.** Each initiative (epic, project) moves through two operational cycles. A team can have multiple initiatives in flight at once, each independently in its own cycle.
 
 | Cycle | Goal | Output | Typical length |
 | --- | --- | --- | --- |
 | **Learning Cycle** | Reduce uncertainty about a problem or solution | A decision: Graduate, Pivot, or Stop — backed by evidence | 1–3 weeks |
 | **Delivery Cycle** | Convert a validated bet into measurable production impact | Deployed system + measurable outcome shift | 4–6 weeks |
 
-Cycles do not need to run back-to-back on the same initiative. A team can run a learning cycle on initiative A, then deliver on initiative B (already validated), and return to A later.
+## The rule that binds the model
+
+**No handoff within an initiative.** The people who run the Learning Cycle for an initiative are the people who run its Delivery Cycle if it graduates. LDEM is not an R&D-throws-prototypes-over-the-wall model — the engineers who built the throwaway are the ones who get to build the production version, because they hold the learning. A team can split *across* initiatives (different ICs leading different epics), but never *within* one.
+
+A team being entirely in Delivery Cycles across all active initiatives is fine; when one wraps up, the next Learning Cycle starts on whatever comes next. The model does not require parallel learning and delivery work.
 
 ## Four stages of an initiative
 
