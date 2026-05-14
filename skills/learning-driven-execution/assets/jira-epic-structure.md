@@ -4,8 +4,8 @@
 
 ---
 
-**Mode:** Learning | Delivery | Mixed
-**Stage:** Goal Definition | Problem Framing | Learning Mode | Delivery Mode
+**Cycle:** Learning | Delivery | Mixed
+**Stage:** Goal Definition | Problem Framing | Learning Cycle | Delivery Cycle
 **Status:** Not started | Active | Decided | Delivered | Stopped
 
 ## Goal & metric
@@ -19,11 +19,11 @@
 
 > If [action], then [outcome] will [direction] by [magnitude] for [scope] within [timeframe].
 
-## Learning goal *(Learning Mode only)*
+## Learning goal *(Learning Cycle only)*
 
 [Problem-validation / Solution-feasibility / Adoption-usability / Cost-sizing]
 
-## Experiment *(Learning Mode only)*
+## Experiment *(Learning Cycle only)*
 
 - **What we'll run:** [...]
 - **Data source:** [...]
@@ -31,7 +31,7 @@
 - **Yes threshold:** [...]
 - **No threshold:** [...]
 
-## Delivery scope *(Delivery Mode only)*
+## Delivery scope *(Delivery Cycle only)*
 
 - **In scope:** [...]
 - **Out of scope:** [...]
@@ -48,7 +48,7 @@
 - **Start:** [date]
 - **End:** [date]
 
-## Transition criteria *(Learning Mode only)*
+## Transition criteria *(Learning Cycle only)*
 
 1. Hypothesis validated — [pending / yes + evidence / no]
 2. Technical feasibility demonstrated — [pending / yes + evidence / no]
@@ -83,9 +83,9 @@
 - Spike: "Learning cycle: [hypothesis summary]" — assignee, due date
 
 **Shape B (Learning → Delivery):**
-- Spike (Learning Mode) — closes when transition decided
+- Spike (Learning Cycle) — closes when transition decided
 - Story: Production implementation
 - Story: Observability + on-call
 - Story: Outcome verification — does the metric move?
 
-Add more stories for Delivery Mode as needed; one per outcome-bearing increment.
+Add more stories for Delivery Cycle as needed; one per outcome-bearing increment.

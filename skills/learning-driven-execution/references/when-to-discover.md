@@ -1,8 +1,8 @@
-# When does an initiative belong in Learning Mode?
+# When does an initiative belong in Learning Cycle?
 
 Not everything goes through discovery. Forcing well-understood work through a learning cycle is process for its own sake — exactly what the model is trying to avoid.
 
-## Discovery (Learning Mode) fits when…
+## Discovery (Learning Cycle) fits when…
 
 - The **problem is poorly understood** — we're not sure what's actually broken or for whom.
 - The **solution space is uncertain** — multiple plausible approaches exist and we can't pick one with confidence.

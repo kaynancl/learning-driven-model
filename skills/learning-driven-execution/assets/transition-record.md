@@ -10,7 +10,7 @@
 > If [action], then [outcome] will [direction] by [magnitude] for [scope] within [timeframe].
 
 ## Decision
-**[ ] Graduate** — move to Delivery Mode
+**[ ] Graduate** — move to Delivery Cycle
 **[ ] Pivot** — re-frame and run another short cycle
 **[ ] Stop** — kill with evidence; document the learning
 
@@ -40,7 +40,7 @@
 
 ## Next steps
 **If Graduate:**
-- Move to Stage 4 — Delivery Mode planning
+- Move to Stage 4 — Delivery Cycle planning
 - Draft delivery scope and 4–6 week target
 - Confirm operational ownership
 
