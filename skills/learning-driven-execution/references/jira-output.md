@@ -42,7 +42,7 @@ Recommend Shape A by default. Use Shape B when the engineer is past the transiti
 Put this in the epic description. Use the same headings as the Discovery Definition for consistency:
 
 ```
-**Cycle:** Learning | Delivery | Mixed
+**Cycle scope:** Learning only | Delivery only | Learning → Delivery
 **Stage:** Goal Definition | Problem Framing | Learning Cycle | Delivery Cycle
 
 ## Goal & metric

@@ -4,7 +4,7 @@
 
 ---
 
-**Cycle:** Learning | Delivery | Mixed
+**Cycle scope:** Learning only | Delivery only | Learning → Delivery
 **Stage:** Goal Definition | Problem Framing | Learning Cycle | Delivery Cycle
 **Status:** Not started | Active | Decided | Delivered | Stopped
 
