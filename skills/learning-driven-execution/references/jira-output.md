@@ -20,7 +20,7 @@ Show the engineer the **full proposed content in chat first** — the epic descr
 
 One epic, one spike issue inside it.
 
-- **Epic** — captures the full LDEM context. Description follows the Discovery Definition template (`assets/discovery-definition.md`). The epic stays alive across modes — it gets updated as the initiative progresses.
+- **Epic** — captures the full LDEM context. Description follows the Discovery Definition template (`assets/discovery-definition.md`). The epic stays alive across cycles — it gets updated as the initiative progresses.
 - **Spike** (issue type "Spike" or "Task" depending on project config) — represents the time-boxed learning cycle. Title: "Learning cycle: [hypothesis summary]". Assignee + due date set.
 
 ### Shape B — Full (Learning → Delivery)
@@ -42,7 +42,7 @@ Recommend Shape A by default. Use Shape B when the engineer is past the transiti
 Put this in the epic description. Use the same headings as the Discovery Definition for consistency:
 
 ```
-**Cycle:** Learning | Delivery | Mixed
+**Cycle scope:** Learning only | Delivery only | Learning → Delivery
 **Stage:** Goal Definition | Problem Framing | Learning Cycle | Delivery Cycle
 
 ## Goal & metric
