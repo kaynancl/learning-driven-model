@@ -19,12 +19,12 @@ A team being entirely in Delivery Cycles across all active initiatives is fine; 
 
 ## Four stages of an initiative
 
-```
-Goal Definition  →  Problem Framing  →  Learning Cycle  →  Delivery Cycle
-   (leadership +      (team + PM —          (team —              (team —
-    team — strategic    hypothesis,           experiment,           production
-    objective, target   expected impact)      decide)               build, measure)
-    metric, guardrails)
+```mermaid
+flowchart LR
+    A["Goal Definition<br/>(leadership + team — strategic objective,<br/>target metric, guardrails)"]
+    --> B["Problem Framing<br/>(team + PM — hypothesis,<br/>expected impact)"]
+    --> C["Learning Cycle<br/>(team — experiment,<br/>decide)"]
+    --> D["Delivery Cycle<br/>(team — production build,<br/>measure)"]
 ```
 
 Stages 3 and 4 are the explicit cycles. Stages 1 and 2 happen quickly — usually one or two short conversations, not multi-week activities.
